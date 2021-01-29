@@ -1,0 +1,23 @@
+{
+  "name": "toycollectiontracker",
+  "version": "1.0.0",
+  "description": "https://ToyCollectionTracker.com                                            ###################################",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "version": "auto-changelog -p && git add CHANGELOG.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgibravo/toycollectiontracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorgibravo/toycollectiontracker/issues"
+  },
+  "homepage": "https://github.com/jorgibravo/toycollectiontracker#readme",
+  "dependencies": {
+    "auto-changelog": "^2.2.1"
+  }
+}
