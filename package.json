@@ -19,5 +19,11 @@
   "homepage": "https://github.com/jorgibravo/toycollectiontracker#readme",
   "dependencies": {
     "auto-changelog": "^2.2.1"
+  },
+  "auto-changelog": {
+    "output": "CHANGELOG.md",
+    "template": "keepachangelog",
+    "unreleased": true,
+    "commitLimit": false
   }
 }
